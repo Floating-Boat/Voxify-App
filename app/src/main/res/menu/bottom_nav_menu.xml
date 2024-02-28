@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="主页" />
+    <item
+        android:id="@+id/navigation_asr"
+        android:icon="@drawable/ic_asr_black_24dp"
+        android:title="语音识别" />
+    <item
+        android:id="@+id/navigation_tts"
+        android:icon="@drawable/ic_tts_black_24dp"
+        android:title="语音合成" />
+    <item
+        android:id="@+id/navigation_ocr"
+        android:icon="@drawable/ic_ocr_black_24dp"
+        android:title="图像识别" />
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ColorNavigationBackground" format="color" />
+    <attr name="ColorActionBar" format="color" />
+    <attr name="ColorBtnEdge" format="color" />
+    <attr name="ColorTextDeputy" format="color" />
+    <attr name="ColorSpinnerBack" format="color" />
+</resources>
